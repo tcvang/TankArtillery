@@ -1,2 +1,2 @@
 NOTE:
-Currently game has 2 players implemented, and goes into an infinite loop where players can keep playing. When running the game on a simulator, there are ALERTS saying that certain files don't exist (probably because I didn't add the proper search paths or what not) but the game will be built successfully still.
+Currently game has 2 players implemented, and goes into an infinite loop where players can keep playing. The following tutorial was used in this game implementation: http://www.raywenderlich.com/4756/how-to-make-a-catapult-shooting-game-with-cocos2d-and-box2d-part-1
