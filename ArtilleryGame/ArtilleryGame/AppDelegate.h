@@ -31,6 +31,6 @@
  Model-View-Controller paradigm and have all your logic munged together, which is
  admittedly harder to do when using OpenGL.
  
- Grade: 80%
- Course grade: 82% (B)
+ Grade: 90%
+ Course grade: 91% (A-)
 */
